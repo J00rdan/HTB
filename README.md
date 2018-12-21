@@ -1,3 +1,3 @@
-If you want to embed images, this is how you do it:
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Write-up
+Jerry
+![Image of Jerry](https://i.imgur.com/WvvXuG5.jpg)
