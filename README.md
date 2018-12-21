@@ -1,6 +1,5 @@
 # J0rdan 
 
-![](https://www.hackthebox.eu/badge/image/60355")
 > There is something wrong with our s0ciety
 
 
