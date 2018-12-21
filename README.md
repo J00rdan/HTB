@@ -1,8 +1,7 @@
 # J0rdan 
-> There is something wrong with our s0ciety
 
 ![](https://www.hackthebox.eu/badge/image/60355")
-
+> There is something wrong with our s0ciety
 
 
 ### Popcorn 
