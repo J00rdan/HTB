@@ -1,4 +1,2 @@
-#####Write-up
-#####Jerry
-![Image of Jerry](https://i.imgur.com/WvvXuG5.jpg)
-asdasda
+##### Jerry has retired and this is my write-up about it...
+##### Jerry was one of the easiest boxes on HTB. It was a beginner-box . ##### It's a windows box and its ip is 10.10.10.95 ![](https://i.imgur.com/WvvXuG5.jpg) 
