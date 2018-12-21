@@ -1,6 +1,5 @@
-# J0rdan
+# J0rdan ![](https://www.hackthebox.eu/badge/image/60355")
 > There is something worng with our s0ciety
-![](https://www.hackthebox.eu/badge/image/60355")
 
 
 ### Popcorn 
